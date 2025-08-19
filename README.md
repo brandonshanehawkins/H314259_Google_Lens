@@ -19,5 +19,7 @@ Show a cursor move to URL bar and click to reveal the drop-down. Then the cursor
 ### Recreate Chrome Intro
 * This is wild, but they want me to recreate an existing Chrome animation
 * See the issue item for more detailed information
-  
+
+* Final review link
+ https://f.io/xR8F67cn
 
